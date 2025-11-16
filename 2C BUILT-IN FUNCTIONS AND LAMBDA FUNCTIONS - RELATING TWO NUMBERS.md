@@ -15,8 +15,8 @@ To write a Python program to  convert the given decimal number into octal number
 
 ### PROGRAM
 ```
-Reg.no - 212223060305
-Name: Vishnu Priya E
+Reg.no - 212223060255
+Name: SHALINI S
 
 str = int(input())
 x=oct(str)
